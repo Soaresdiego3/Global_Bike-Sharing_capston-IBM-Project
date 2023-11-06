@@ -1,4 +1,4 @@
-# IBM-Data-Science---R-project
+# IBM Global Bike-Sharing project
 This project leverages the Global Bike Sharing dataset from Wikipedia and the OpenWeather API to investigate the dynamic relationship between weather conditions and urban bike-sharing demand. The dataset, comprised of Global Bike Sharing System data, offers a comprehensive glimpse into bike-sharing trends across various urban areas. Paired with real-time weather data obtained from the OpenWeather API, this project delves into the intriguing question of how weather influences the usage of bike-sharing systems.
 
 ## Project Goals:
